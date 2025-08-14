@@ -1,0 +1,9 @@
+^git rm -r --cached node_modules .next
+
+
+git rm -r --cached node_modules .next
+
+^X
+?^X
+^X
+
